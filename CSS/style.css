@@ -342,4 +342,5 @@ input:checked+.slider:before {
 
 .git-selection-githab {
     vertical-align: bottom;
+    position: absolute;
 }
