@@ -272,7 +272,7 @@ input:checked+.slider:before {
 .tech-skills-selection,
 .git-selection,
 .soft-skills-selection {
-    margin: 50px 0 0 40px;
+    margin: 40px 0 0 40px;
 }
 
 .sidebar-title {
@@ -342,5 +342,5 @@ input:checked+.slider:before {
 
 .git-selection-githab {
     vertical-align: bottom;
-    position: absolute;
+    /* position: absolute; */
 }
