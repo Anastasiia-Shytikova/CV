@@ -183,7 +183,7 @@ input:checked+.slider:before {
 /* my-work-experience */
 
 .my-work-experience-company {
-    color: #FB6D3A;
+    color: #000000;
 }
 
 .my-work-experience-position {
@@ -238,7 +238,7 @@ input:checked+.slider:before {
     font-weight: bold;
     font-size: 16px;
     line-height: 20px;
-    color: #FB6D3A;
+    color: #000000;
     margin: 0 0 10px 0;
 }
 
@@ -311,7 +311,7 @@ input:checked+.slider:before {
 
 .tech-skills-item,
 .soft-skills-item {
-    color: #FB6D3A;
+    color: #fff;
 }
 
 .tech-skills-item-text,
@@ -324,25 +324,10 @@ input:checked+.slider:before {
     color: #fff;
 }
 
-.icon-svg {
-    fill: #fff;
-    margin-left: 20px;
-}
-
 .git-selection-link {
     color: #fff;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-}
-
-.git-title {
-    display: flex;
-    align-items: center;
-}
-
-.git-selection-githab {
-    vertical-align: bottom;
-    /* position: absolute; */
 }
